@@ -7,8 +7,8 @@ import requests
 import datetime
 from urllib.parse import urlencode
 import base64
-client_id = 'cef5a9c19ee14d3fb0b1881fcbe97688'
-client_secret = '5ae92bba207f41608e036810e413c7cf'
+client_id = '**********'
+client_secret = '************'
 
 
 class SpotifyApi:
